@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://quicklink-url-shortener-7y9byw4l6.vercel.app/sitemap.xml
+Sitemap: https://quicklink-url-shortener-liard.vercel.app/sitemap.xml
